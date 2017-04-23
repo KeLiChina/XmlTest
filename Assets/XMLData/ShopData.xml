@@ -1,0 +1,26 @@
+<Shop>
+	<Item>
+		<speed>+2</speed>
+		<rotate>+3</rotate>
+		<model>model/aaa</model>
+		<price>2000</price>
+	</Item>
+	<Item>
+		<speed>+4</speed>
+		<rotate>+6</rotate>
+		<model>model/bbb</model>
+		<price>3000</price>
+	</Item>
+	<Item>
+		<speed>+8</speed>
+		<rotate>+10</rotate>
+		<model>model/ccc</model>
+		<price>5000</price>
+	</Item>
+	<Item>
+		<speed>+15</speed>
+		<rotate>+20</rotate>
+		<model>model/ddd</model>
+		<price>8000</price>
+	</Item>	
+</Shop>
